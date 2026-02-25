@@ -2,6 +2,12 @@
 Your one stop shop for capturing frames and using them for new Generations (this project is made by a non coding autistic but good planner and prompter using Anti Grav)
 If you get stuck watch this video https://youtu.be/LjYMxzsapvg?si=w4BNVi4cAe2V4fe1 always remember to snap a picture first so it appears bellow before sending it to a VACE modal. this is untested with Image to Video modals as of now
 
+# Simaler but diffrent
+the Liberalia photo booth is diffrent to the Wan GP Gallery plugin for the fact you can load any video in and snap ANY frame.
+
+# Known Bug
+You have a button that says open in Photobooth sadly in the first version this is not working.
+once Wantastic is off to a good start I will Revisit this issue it's a known bug and should not affect usage.
 
 # 📸 Liberalia Photobooth — WanGP Plugin
 
