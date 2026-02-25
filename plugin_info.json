@@ -1,0 +1,6 @@
+{
+  "name": "Liberalia Photobooth",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "description": "Load generated videos, take snapshots as references, and send them to the generator."
+}
