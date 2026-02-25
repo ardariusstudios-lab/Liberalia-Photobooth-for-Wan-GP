@@ -25,7 +25,7 @@ A plugin for [WanGP](https://github.com/deepbeepmeep/Wan2GP) that adds a dedicat
 - Refare to my demo video to see how to use it correctly https://youtu.be/LjYMxzsapvg?si=7ZzVHC6GLIWWeSXV
 
 # Disclamer/Contact Info
-this project is developed by an individual dignosed with savere autisim and leaning difficaltys it would not be here at all if Anti Grav did not exsist. please remember this when filing issues I also do not always have the internet and work on lots of projects at once. so sorry for any wait for fixes. if you urgently want to talk to me your best option is Discord. on the Wan GP server or My Private Server https://discord.gg/XUtF2mmU3Q I check Discord most days.
+this project is developed by an individual dignosed with savere autisim and leaning difficaltys it would not be here at all if Anti Grav did not exsist. please remember this when filing issues I also do not always have the internet and work on lots of projects at once. so sorry for any wait for fixes. if you urgently want to talk to me your best option is Discord. on the Wan GP server or My Private Server https://discord.gg/XUtF2mmU3Q I check Discord most days. if you are a You Tuber you could comment on the demo Video.
 
 ---
 
