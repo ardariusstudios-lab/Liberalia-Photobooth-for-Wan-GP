@@ -1,5 +1,7 @@
 # Liberalia-Photobooth-for-Wan-GP
 Your one stop shop for capturing frames and using them for new Generations (this project is made by a non coding autistic but good planner and prompter using Anti Grav)
+If you get stuck watch this video https://youtu.be/LjYMxzsapvg?si=w4BNVi4cAe2V4fe1 always remember to snap a picture first so it appears bellow before sending it to a VACE modal. this is untested with Image to Video modals as of now
+
 
 # 📸 Liberalia Photobooth — WanGP Plugin
 
