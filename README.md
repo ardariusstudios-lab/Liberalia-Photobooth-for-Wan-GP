@@ -17,11 +17,15 @@ A plugin for [WanGP](https://github.com/deepbeepmeep/Wan2GP) that adds a dedicat
 
 ## Features
 
-- 🎬 **Video Frame Browser** — Load any `.mp4` and scrub through frames with a slider
-- 📸 **Frame Snapping** — Capture the current frame as a full-resolution PNG
+- 🎬 **Video Frame Browser** — Load any `.mp4` and scrub through frames with a slider (may upgrade to support more formats later on)
+- 📸 **Frame Snapping** — Capture the current frame as a full-resolution PNG you must do this first.
 - 🖼️ **Snapshot Gallery** — Browse all snapped frames in a session gallery
-- 📤 **Send to Generator** — Push one or all snapshots to the Generator's Reference Images input (perfect for VACE / Phantom workflows)
+- 📤 **Send to Generator** — Push one or all snapshots to the Generator's Reference Images input (perfect for VACE / Phantom workflows) untested with Image to video but should work with single images.
 - 💾 **Persistent Storage** — Snapshots are saved to `outputs/liberalia_photobooth/` with timestamps
+- Refare to my demo video to see how to use it correctly https://youtu.be/LjYMxzsapvg?si=7ZzVHC6GLIWWeSXV
+
+# Disclamer/Contact Info
+this project is developed by an individual dignosed with savere autisim and leaning difficaltys it would not be here at all if Anti Grav did not exsist. please remember this when filing issues I also do not always have the internet and work on lots of projects at once. so sorry for any wait for fixes. if you urgently want to talk to me your best option is Discord. on the Wan GP server or My Private Server https://discord.gg/XUtF2mmU3Q I check Discord most days.
 
 ---
 
