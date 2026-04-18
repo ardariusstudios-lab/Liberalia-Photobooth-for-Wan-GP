@@ -1,4 +1,5 @@
 # 📸 Liberalia Photobooth — WanGP Plugin
+Update Annoying Dead Button removed at last sorry for the wait
 
 A plugin for [WanGP](https://github.com/deepbeepmeep/Wan2GP) that adds a dedicated **Photobooth** tab, letting you load generated videos, snap high-quality frames, and send them directly to the Generator as reference images.
 
